@@ -1,4 +1,4 @@
-#classclass仓库
+#classclass
 该仓库作为练习使用
 
 1. 仅仅作文本次课程练习
